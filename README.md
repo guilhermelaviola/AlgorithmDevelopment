@@ -1,4 +1,4 @@
-# AlgorithmDevelopment
+# Algorithm Development
 My school homework from **#DescomplicaDigital** on Data Science &amp; Cybersecurity 3.1.1 - Algorithm Development, which is the systematic process of designing, creating, and refining a step-by-step procedure (algorithm) to solve a specific problem or perform a task, transforming inputs into desired outputs efficiently. It's a core part of computer science, involving understanding the problem, choosing logical steps, testing, and optimizing for performance, far beyond just writing code.
 
 ## Contents
